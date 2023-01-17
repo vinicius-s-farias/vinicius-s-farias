@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/vinicius-s-farias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius-s-farias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-s-farias&layout=compact&langs_count=7&theme=dracula"/>
@@ -10,7 +10,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-</div>
+</div> -->
   
   ##
 <divl> 
